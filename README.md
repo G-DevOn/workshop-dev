@@ -1,1 +1,2 @@
-# workshop-dev
+# Projeto em construção...
+### Construção do projeto workshop-dev ministrado pela Rocketseat, com intuito de cadastrar e verificar ideias diversificadas para fazer durante este momento de crise.
